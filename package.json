@@ -1,0 +1,17 @@
+{
+  "name": "casper-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "latest",
+    "casper": "latest",
+    "casperjs": "latest",    
+    "fs": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
