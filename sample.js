@@ -1,6 +1,6 @@
 var casper = require('casper').create();
 
-casper.start('http://casperjs.org/', function() {
+casper.start('http://google.com/', function() {
     this.echo(this.getTitle());
 });
 
